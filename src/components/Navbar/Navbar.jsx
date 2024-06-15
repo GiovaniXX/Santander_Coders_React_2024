@@ -1,6 +1,6 @@
 import React from "react";
 
-import logoimg from "../../assets/images/Dev.png";
+import logoimg from "../../assets/images/ziglerxxx.jpg";
 
 import "./styles.css";
 
